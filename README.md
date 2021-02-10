@@ -9,7 +9,8 @@ Run the following:
 rm -rf ~/.vimrc
 rm -rf ~/.vim
 git clone https://github.com/laurenabrahall/Vim-Config.git
-vim ~./vimrc
+mv vimrc.txt .vimrc
+vim ~/.vimrc
 ```
 
 Run the following inside vim:  
